@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1495719258 source:c:\users\asus\desktop\projeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contato.h"
+	"agenda.h"
+	"interacao.h"
+
+1495719258 source:c:\users\asus\desktop\projeto\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+	"contato.h"
+
+1495232178 c:\users\asus\desktop\projeto\agenda.h
+	"contato.h"
+
+1495692702 source:c:\users\asus\desktop\projeto\contato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contato.h"
+
+1494682558 c:\users\asus\desktop\projeto\contato.h
+
+1495145630 source:c:\users\asus\desktop\projeto\interacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<conio.h>
+	"interacao.h"
+
+1494771188 c:\users\asus\desktop\projeto\interacao.h
+
+1495719258 source:c:\users\asus\desktop\bti 3 periodo\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+	"contato.h"
+
+1495232178 c:\users\asus\desktop\bti 3 periodo\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\agenda.h
+	"contato.h"
+
+1494682558 c:\users\asus\desktop\bti 3 periodo\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\contato.h
+
+1495692702 source:c:\users\asus\desktop\bti 3 periodo\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\contato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contato.h"
+
+1495145630 source:c:\users\asus\desktop\bti 3 periodo\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\interacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<conio.h>
+	"interacao.h"
+
+1494771188 c:\users\asus\desktop\bti 3 periodo\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\interacao.h
+
+1495719258 source:c:\users\asus\desktop\bti 3 periodo\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contato.h"
+	"agenda.h"
+	"interacao.h"
+
+1495719258 source:c:\users\asus\desktop\bti\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+	"contato.h"
+
+1495232178 c:\users\asus\desktop\bti\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\agenda.h
+	"contato.h"
+
+1494682558 c:\users\asus\desktop\bti\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\contato.h
+
+1495692702 source:c:\users\asus\desktop\bti\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\contato.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contato.h"
+
+1495145630 source:c:\users\asus\desktop\bti\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\interacao.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<conio.h>
+	"interacao.h"
+
+1494771188 c:\users\asus\desktop\bti\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\interacao.h
+
+1495719258 source:c:\users\asus\desktop\bti\laboratorio de algoritmo e estrutura de dados 1\projeto agenda remyson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"contato.h"
+	"agenda.h"
+	"interacao.h"
+
